@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<StudentDetail>
+	<Student>
+		<SID>1</SID>
+		<SName>Atharva</SName>
+		<SClass>TYIT</SClass>
+	</Student>
+	<Student>
+		<SID>2</SID>
+		<SName>Kanik</SName>
+		<SClass>TYIT</SClass>
+	</Student>
+	<Student>
+		<SID>3</SID>
+		<SName>Devik</SName>
+		<SClass>TYIT</SClass>
+	</Student>
+	<Student>
+		<SID>4</SID>
+		<SName>Om</SName>
+		<SClass>TYIT</SClass>
+	</Student>
+	<Student>
+		<SID>5</SID>
+		<SName>Dev</SName>
+		<SClass>TYIT</SClass>
+	</Student>
+</StudentDetail>

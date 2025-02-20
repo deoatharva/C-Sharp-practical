@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/img/cat.jpg</ImageUrl>
+    <NavigateUrl>https://www.google.com</NavigateUrl>
+    <AlternateText>cat</AlternateText>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/img/siws.jpg</ImageUrl>
+    <NavigateUrl>https://siwscollege.edu.in/</NavigateUrl>
+    <AlternateText>siws</AlternateText>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/img/flower.jpg</ImageUrl>
+    <NavigateUrl>https://www.tweeter.com</NavigateUrl>
+    <AlternateText>flower</AlternateText>
+  </Ad>
+  
+  <Ad>
+    <ImageUrl>~/img/lizard.jpg</ImageUrl>
+    <NavigateUrl>https://www.microsoft.com</NavigateUrl>
+    <AlternateText>lizard</AlternateText>
+  </Ad>
+</Advertisements>
